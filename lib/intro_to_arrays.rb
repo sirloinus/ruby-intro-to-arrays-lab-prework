@@ -34,4 +34,7 @@ end
 
 # METHODS TO GET INFO ABOUT ARRAY
 
-
+def length_of_array(array)
+  array.length
+end
+  
