@@ -28,9 +28,4 @@ def first_element_with_array_methods(array)
   first_element = array.shift
 end
 
-# describe "#first_element_with_array_methods" do 
-#       it 'takes in an argument of an array and returns the first element in the array, without referencing the index number of that element' do
-#         first_country = first_element_with_array_methods(@south_east_asia)
-#         expect(first_country).to eq("Thailand")
-#       end
-#     end
+
